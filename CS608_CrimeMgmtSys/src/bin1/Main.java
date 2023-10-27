@@ -1,4 +1,4 @@
-package bin;
+package bin1;
 
 public class Main {
 
