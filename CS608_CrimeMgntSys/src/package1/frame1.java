@@ -15,6 +15,9 @@ public class frame1 {
 
 	/**
 	 * Launch the application.
+	 * Start page.
+	 * @@author linlanc {lc031159p@pace.edu} 
+	 * 
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
