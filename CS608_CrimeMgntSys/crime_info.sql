@@ -1,1 +1,0 @@
-INSERT INTO crime_info (crime_id, crime_type, weapon_used, weapon_type, crime_date, crime_time, crime_location, criminal_id, victim_id) VALUES ('qwe', 'qwe', false, 'qwe', '', '', 'qwe', 'qwe', 'qwe');
